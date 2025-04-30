@@ -1,7 +1,7 @@
 # Alt-Mobility-Data-Analyst
 ASSIGNMENT BRIEF: DATA ANALYST INTERN
 
-3. Summary of Findings:
+Summary of Findings:
 
 Key Insights from SQL Queries:
 The SQL queries provided accurate aggregation of order and sales data, helping identify trends and areas for improvement.
