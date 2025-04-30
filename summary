@@ -1,0 +1,12 @@
+3. Summary of Findings:
+
+Key Insights from SQL Queries:
+The SQL queries provided accurate aggregation of order and sales data, helping identify trends and areas for improvement.
+The segmentation of customers and the grouping by order and payment statuses allowed us to pinpoint issues and opportunities in various operational areas.
+Observations from Customer Retention Analysis:
+The cohort retention heatmap indicates that while a solid base of customers makes repeat purchases, the retention rates drop significantly in subsequent months.
+The data suggests that new customers have strong initial engagement, which tapers off, highlighting an opportunity for targeted re-engagement strategies.
+Recommendations for Alt Mobility:
+Enhance customer engagement with follow-up communications or loyalty programs shortly after the first purchase.
+Refine marketing strategies to target high-risk cohorts and try to increase the conversion of repeat purchases.
+Improve payment processes identified in the SQL analysis to ensure a seamless customer experience and reduce drop-offs.
